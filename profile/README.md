@@ -30,12 +30,3 @@ The biggest challenge for emerging developers is the "experience gap." Hexnity s
 * **Professional Portfolio:** A dedicated profile page that serves as a living CV for your open-source journey.
 
 ---
-
-## 🛠 Technical Stack
-
-Hexnity is built using the **TALL Stack** to ensure a robust and modern developer experience:
-
-- **Framework:** [Laravel](https://laravel.com)
-- **Admin Panel:** [Filament v3](https://filamentphp.com)
-- **Frontend:** [Tailwind CSS](https://tailwindcss.com) & [Alpine.js](https://alpinejs.dev)
-- **Reactivity:** [Livewire](https://livewire.laravel.com)
